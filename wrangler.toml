@@ -5,5 +5,5 @@ compatibility_date = "2025-01-01"
 account_id = "805fc4816dceeff5adcec1256d9888c"   # <-- GANTI dengan Cloudflare Account ID
 
 kv_namespaces = [
-  { binding = "AUTOPOST_KV", id = "YOUR_KV_NAMESPACE_ID" }  # <-- GANTI dengan KV Namespace ID
+  { binding = "AUTOPOST_KV", id = "46bb3f92ae3149cab7ae2124c78c9643" }  # <-- GANTI dengan KV Namespace ID
 ]
