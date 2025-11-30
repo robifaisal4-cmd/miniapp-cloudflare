@@ -2,7 +2,7 @@ name = "round-boat-6c3d"            # ganti kalau mau nama lain
 main = "worker.js"
 compatibility_date = "2025-01-01"
 
-account_id = "YOUR_CF_ACCOUNT_ID"   # <-- GANTI dengan Cloudflare Account ID
+account_id = "805fc4816dceeff5adcec1256d9888c"   # <-- GANTI dengan Cloudflare Account ID
 
 kv_namespaces = [
   { binding = "AUTOPOST_KV", id = "YOUR_KV_NAMESPACE_ID" }  # <-- GANTI dengan KV Namespace ID
